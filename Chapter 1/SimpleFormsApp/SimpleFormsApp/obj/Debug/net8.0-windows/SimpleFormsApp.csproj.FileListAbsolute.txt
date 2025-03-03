@@ -1,0 +1,16 @@
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\bin\Debug\net8.0-windows\SimpleFormsApp.exe
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\bin\Debug\net8.0-windows\SimpleFormsApp.deps.json
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\bin\Debug\net8.0-windows\SimpleFormsApp.runtimeconfig.json
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\bin\Debug\net8.0-windows\SimpleFormsApp.dll
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\bin\Debug\net8.0-windows\SimpleFormsApp.pdb
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\obj\Debug\net8.0-windows\SimpleFormsApp.Form1.resources
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\obj\Debug\net8.0-windows\SimpleFormsApp.csproj.GenerateResource.cache
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\obj\Debug\net8.0-windows\SimpleFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\obj\Debug\net8.0-windows\SimpleFormsApp.AssemblyInfoInputs.cache
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\obj\Debug\net8.0-windows\SimpleFormsApp.AssemblyInfo.cs
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\obj\Debug\net8.0-windows\SimpleFormsApp.csproj.CoreCompileInputs.cache
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\obj\Debug\net8.0-windows\SimpleFormsApp.dll
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\obj\Debug\net8.0-windows\refint\SimpleFormsApp.dll
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\obj\Debug\net8.0-windows\SimpleFormsApp.pdb
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\obj\Debug\net8.0-windows\SimpleFormsApp.genruntimeconfig.cache
+C:\Chapter 1\SimpleFormsApp\SimpleFormsApp\obj\Debug\net8.0-windows\ref\SimpleFormsApp.dll
