@@ -1,0 +1,17 @@
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\bin\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.exe
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\bin\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.deps.json
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\bin\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\bin\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.dll
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\bin\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.pdb
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.Form1.resources
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.dll
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\obj\Debug\net8.0-windows\refint\SimpleFormsAppWithCheckedListBox.dll
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.pdb
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox\obj\Debug\net8.0-windows\ref\SimpleFormsAppWithCheckedListBox.dll
