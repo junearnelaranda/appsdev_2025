@@ -1,0 +1,17 @@
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\net8.0-windows\SimpleFormsAppWithComboBox.exe
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\net8.0-windows\SimpleFormsAppWithComboBox.deps.json
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\net8.0-windows\SimpleFormsAppWithComboBox.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\net8.0-windows\SimpleFormsAppWithComboBox.dll
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\net8.0-windows\SimpleFormsAppWithComboBox.pdb
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.Form1.resources
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.dll
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\refint\SimpleFormsAppWithComboBox.dll
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.pdb
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\ref\SimpleFormsAppWithComboBox.dll
