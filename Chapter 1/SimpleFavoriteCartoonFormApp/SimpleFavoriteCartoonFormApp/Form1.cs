@@ -27,7 +27,7 @@ namespace SimpleFavoriteCartoonFormApp
 
         private void vwBtn_Click(object sender, EventArgs e)
         {
-            string basePath = @"C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFavoriteCartoonFormApp\Chars\";
+            string basePath = @"C:\Users\lenovo\OneDrive\Desktop\Chapter 1\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\Chars\";
 
             switch (comboBox1.SelectedItem.ToString())
             {
