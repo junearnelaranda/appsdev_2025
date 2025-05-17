@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AviatorGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BarrelGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BrowlineForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BrowlineGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CateyeGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Contacts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dAviatorGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dBrowlineGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DcateyeGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DiamondForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dOvalGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dRectangularGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dRoundGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FoxFrame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeometricGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Havaitorf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hcateyef.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hovalf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HeartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hroundf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ovalaviator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ovalbrowline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ovalcateye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OvalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ovalgeometric.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OvalGlasses%28sqr%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ovalrectangle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OversizedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PilotForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PilotGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RectangleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RectangleFrames.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RimlessGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RounddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TroundlGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SquareeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SquareForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SquareGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TriangleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="trimlessGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tsquareGlasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
